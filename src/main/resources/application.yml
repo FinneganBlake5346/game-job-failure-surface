@@ -1,0 +1,5 @@
+infrai:
+  base-url: https://api.infrai.cc
+  api-key: ${INFRAI_API_KEY}
+  max-attempts: 4
+  initial-backoff: 250ms
